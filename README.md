@@ -1,4 +1,4 @@
-![Header](./philosophers.png)
+![Header](./Philosophers.png)
 
 # Philo
 
