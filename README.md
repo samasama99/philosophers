@@ -1,3 +1,5 @@
+![Header](./philosophers.png)
+
 # Philo
 
 This project simulates the dining philosophers problem using threads and mutexes. The goal is to implement a solution that ensures the philosophers can eat without encountering issues like deadlocks or starvation.
